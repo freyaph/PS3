@@ -12,10 +12,10 @@ we run the experiment 10 times and take the average for the report in the paper.
 
 For the experiment such as in Figure 3 (in the paper), please modify the dataset to have similar ratio as in the paper <br>.
 
-If you use our implementation please cite the paper as
-@inproceedings{Fajri2020PS3,
-  title={PS3:Partition-based Skew-Specialized Sampling for Batch Mode Active Learning in Imbalanced Text Data},
-  author={Ricky Maulana Fajri and Samaneh Khoshrou and Robert Peharz and Mykola Pechenizkiy},
-  booktitle={ECML-PKDD},
-  year={2020}
-}
+If you use our implementation please cite the paper as <br>
+@inproceedings{Fajri2020PS3,<br>
+  title={PS3:Partition-based Skew-Specialized Sampling for Batch Mode Active Learning in Imbalanced Text Data},<br>
+  author={Ricky Maulana Fajri and Samaneh Khoshrou and Robert Peharz and Mykola Pechenizkiy},<br>
+  booktitle={ECML-PKDD},<br>
+  year={2020}<br>
+}<br>
